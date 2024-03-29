@@ -33,5 +33,5 @@ export const middleware = (request) => {
 };
 
 export const config = {
-  matcher: ["/((?!_next).*)"],
+ matcher: ["/((?!api|assets|.*\\..*|_next).*)"],
 };
