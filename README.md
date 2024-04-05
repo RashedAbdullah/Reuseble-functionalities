@@ -40,11 +40,3 @@ Contributions are welcome! If you have any reusable functionalities or component
 
 This repository is licensed under the [MIT License](LICENSE).
 
-
-<details>
-  <summary>Click to expand dropdown</summary>
-  
-  Dropdown content goes here.
-
-  You can have multiple paragraphs, lists, or any other Markdown elements inside the dropdown.
-</details>
